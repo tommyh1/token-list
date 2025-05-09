@@ -13,17 +13,16 @@
   },
   "timestamp": "2025-05-07T12:00:00+00:00",
   "tokens": [
-    {
-      "chainId": 101,
-      "address": "EqVqHZWjFMReDYeVUqUjWf23hCpLd7ivTxH3xhTN26jK",
-      "symbol": "GNSS8",
-      "name": "GnessCoin",
-      "decimals": 9,
-      "logoURI": "https://gnesscoin.com/logo.png",
-      "tags": [
-        "community",
-        "meme"
-      ]
+{
+  "chainId": 101,
+  "address": "EqVqHZWjFMReDYeVUqUjWf23hCpLd7ivTxH3xhTN26jK",
+  "symbol": "GNSS8",
+  "name": "GnessCoin",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/tommyh1/token-list/main/assets/mainnet/EqVqHZWjFMReDYeVUqUjWf23hCpLd7ivTxH3xhTN26jK/logo.png",
+  "tags": ["community", "meme"]
+}
+
     }
   ]
 }
