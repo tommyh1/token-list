@@ -7,8 +7,8 @@
       "description": "Community-built token"
     },
     "meme": {
-      "name": "Meme",
-      "description": "Just for fun"
+      "name": "GnessCoin",
+      "description": "gness8"
     }
   },
   "timestamp": "2025-05-07T12:00:00+00:00",
@@ -19,7 +19,7 @@
       "symbol": "GNSS8",
       "name": "GnessCoin",
       "decimals": 9,
-      "logoURI": "https://i.imgur.com/YOUR_IMAGE.png",
+      "logoURI": "https://gnesscoin.com/logo.png",
       "tags": [
         "community",
         "meme"
